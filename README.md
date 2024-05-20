@@ -1,4 +1,6 @@
-## Hi there 👋
+## Ola, sou Brian Citro Ashihara.
+
+ - Estudante de Engenharia de Computação.
 
 <!--
 **BrianAshihara/BrianAshihara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
