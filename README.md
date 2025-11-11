@@ -30,7 +30,8 @@
 
 - Programação Dinâmica para resolução de problemas com maior eficácia.
 - React.js e Node.js.
-- Resolvendo problemas de LeetCode para melhoria de lógica e treino para programação competitiva.  
+- Resolvendo problemas de LeetCode para melhoria de lógica e treino para programação competitiva.
+- Blockchain e sistema distribuídos para a conclusão do TCC.
 
 <img src="https://leetcard.jacoblin.cool/brianashihara?theme=dark&font=Montserrat" width="350" />
 
