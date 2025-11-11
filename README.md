@@ -26,8 +26,6 @@
 
 ---
 
----
-
 ## 📖 Estudando Atualmente
 
 - Programação Dinâmica para resolução de problemas com maior eficácia.
