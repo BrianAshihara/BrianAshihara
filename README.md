@@ -32,7 +32,8 @@
 - React.js e Node.js.
 - Resolvendo problemas de LeetCode para melhoria de lógica e treino para programação competitiva.  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/brianashihara?theme=dark&font=Montserrat)
+<img src="https://leetcard.jacoblin.cool/brianashihara?theme=dark&font=Montserrat" width="350" />
+
 
 
 ---
