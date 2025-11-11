@@ -26,6 +26,16 @@
 
 ---
 
+---
+
+## 📖 Estudando Atualmente
+
+- Programação Dinâmica para resolução de problemas com maior eficácia.
+- React.js e Node.js.
+- Resolvendo problemas de LeetCode para melhoria de lógica e treino para programação competitiva.  
+
+---
+
 <!--
 ## 🚀 Projetos em Destaque
 
@@ -61,3 +71,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brianashihara)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian09.c.a@gmail.com)
 
+
+📖
