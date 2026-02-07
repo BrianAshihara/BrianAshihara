@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Brian Ashihara!
-  - Estudante de Engenharia de Computação.
+  - Estudante de Engenharia de Computação e atualmente atuo como Estagiário de Desenvolvedor Full Stack.
 
 💻 Desenvolvedor apaixonado por resolver problemas complexos com código.  
 🎓 Estudante de tecnologia e entusiasta de **Blockchain**, **Inteligência Artificial** e **desenvolvimento de sistemas eficientes**.  
@@ -14,6 +14,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 ---
 
@@ -22,13 +24,14 @@
 - 🗳️ **Blockchain** – registro distribuído, segurança e integridade de dados.  
 - 🤖 **Inteligência Artificial** – automação, geração de texto e análise de padrões.  
 - ⚡ **Desenvolvimento de sistemas de alta performance** em Python, C++ e Java.  
+- 🌐 **Desenvolvimento Full Stack** – criação de aplicações web completas, do backend ao frontend (Node.js, React, APIs e bancos de dados).  
 - 🧩 **Maratonas de programação** – foco em lógica, otimização e resolução de problemas sob pressão.  
 
 ---
 
 ## 📖 Estudando Atualmente
 
-- Programação Dinâmica para resolução de problemas com maior eficácia.
+- Viabilidade de uma futura adesão de Rust no mercado.
 - React.js e Node.js.
 - Resolvendo problemas de LeetCode para melhoria de lógica e treino para programação competitiva.
 - Blockchain e sistema distribuídos para a conclusão do TCC.
@@ -36,32 +39,8 @@
 <img src="https://leetcard.jacoblin.cool/brianashihara?theme=dark&font=Montserrat" width="350" />
 
 
-
 ---
 
-<!--
-## 🚀 Projetos em Destaque
-
-- 🗳️ [**Sistema de Votação com Blockchain**](https://github.com/brian-ashihara/votacao-blockchain)  
-  Aplicação CLI em Python para registro de votos de forma anônima, imutável e auditável.  
-
-- 🤖 [**AI Quiz Terminal**](https://github.com/brian-ashihara/ai-quiz-terminal)  
-  Jogo interativo em linha de comando com perguntas geradas por IA.  
-
-- 📊 [**DataLens – Tendências da Internet**](https://github.com/brian-ashihara/datalens)  
-  Dashboard com scraping e análise de popularidade de tópicos em tempo real.  
-
----
--->
-
-<!--
-## 📈 Estatísticas do GitHub
-
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-ashihara&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-ashihara&layout=compact&theme=tokyonight)
-
----
--->
 ## 💬 Sobre mim
 
 🎯 Sou movido por desafios e pela curiosidade em entender como as coisas funcionam por dentro.  
