@@ -1,17 +1,19 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Brian+Ashihara+%F0%9F%91%8B;Full+Stack+Developer;Competitive+Programmer;Blockchain+%26+AI+Enthusiast" alt="Typing SVG" />
-</h1>
+<h1 align="center">Brian Ashihara</h1>
+
+<p align="center">
+  Full Stack Developer • Competitive Programmer
+</p>
 
 <p align="center">
   💻 Apaixonado por resolver problemas complexos com código &nbsp;|&nbsp;
-  🏆 Maratonista de programação &nbsp;|&nbsp;
+  🏆 Maratonista de programação
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-Sou um desenvolvedor movido por desafios e pela curiosidade de entender como as coisas funcionam por dentro. Tenho experiência em **desenvolvimento full stack** e gosto de unir performance, boas práticas e soluções criativas nos projetos em que atuo.
+Sou estudante de **Engenharia de Computação** e **Desenvolvedor Full Stack**, movido por desafios e pela curiosidade de entender como as coisas funcionam por dentro. Gosto de unir performance, boas práticas e soluções criativas nos projetos em que atuo.
 
 Participei de diversas **maratonas de programação**, o que me ajudou a desenvolver pensamento algorítmico, raciocínio lógico aguçado e capacidade de trabalhar sob pressão.
 
@@ -33,15 +35,12 @@ Participei de diversas **maratonas de programação**, o que me ajudou a desenvo
 
 ---
 
-## 🧠 Áreas de Interesse
+## 🧠 Áreas de Interess
 
-| Área | Descrição |
-|------|-----------|
-| 🔗 **Blockchain** | Sistemas distribuídos, segurança e integridade de dados |
-| 🤖 **Inteligência Artificial** | Automação, geração de texto e análise de padrões |
-| 🌐 **Full Stack Development** | Aplicações web completas — APIs, bancos de dados, interfaces |
-| ⚡ **Alta Performance** | Otimização de sistemas em Python, C++ e Java |
-| 🧩 **Programação Competitiva** | Lógica, otimização e resolução de problemas sob pressão |
+- 🔗 **Blockchain** | Sistemas distribuídos, segurança e integridade de dados |
+- 🌐 **Full Stack Development** | Aplicações web completas — APIs, bancos de dados, interfaces |
+- ⚡ **Alta Performance** | Otimização de sistemas em Python, C++ e Java |
+- 🧩 **Programação Competitiva** | Lógica, otimização e resolução de problemas sob pressão |
 
 ---
 
