@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Brian Ashihara" />
+  <img src="https://raw.githubusercontent.com/brianashihara/brianashihara/main/assets/header.svg" alt="Brian Ashihara" />
 </p>
 
 <p align="center">
