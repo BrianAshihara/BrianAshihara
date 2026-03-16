@@ -1,6 +1,4 @@
-<h1 align="center">Brian Ashihara</h1>
-
-<p align="center">───────────────</p>
+<h1 align="center">Olá! Sou Brian Ashihara 👋</h1>
 
 <p align="center">
   💻 Apaixonado por resolver problemas complexos com código &nbsp;|&nbsp;
