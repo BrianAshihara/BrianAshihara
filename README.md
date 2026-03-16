@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/brianashihara/brianashihara/main/assets/header.svg" alt="Brian Ashihara" />
-</p>
+<h1 align="center">Brian Ashihara</h1>
 
-<p align="center">
-  Full Stack Developer • Competitive Programmer
-</p>
+<p align="center">───────────────</p>
 
 <p align="center">
   💻 Apaixonado por resolver problemas complexos com código &nbsp;|&nbsp;
