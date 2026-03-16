@@ -1,4 +1,9 @@
-<h1 align="center">Brian Ashihara</h1>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0f172a&height=110&section=header&text=Brian%20Ashihara&fontSize=46&fontColor=E5E7EB&fontAlignY=50"
+    alt="Brian Ashihara"
+  />
+</p>
 
 <p align="center">
   Full Stack Developer • Competitive Programmer
