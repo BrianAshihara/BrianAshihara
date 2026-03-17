@@ -20,7 +20,7 @@ Participei de diversas **maratonas de programação**, o que me ajudou a desenvo
 **Principais linguagens:**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,java,mysql,cs,react,oracle&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,java,mysql,cs,react&theme=dark" />
 </p>
 
 **Ferramentas & Ecossistema:**
