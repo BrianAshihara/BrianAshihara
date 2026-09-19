@@ -20,7 +20,7 @@ Participei de diversas **maratonas de programação**, o que me ajudou a desenvo
 **Principais linguagens:**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,java,mysql,cs,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,java,mysql,cs,react,go&theme=dark" />
 </p>
 
 **Ferramentas & Ecossistema:**
@@ -34,7 +34,7 @@ Participei de diversas **maratonas de programação**, o que me ajudou a desenvo
 ## 🧠 Áreas de Interess
 
 - 🔗 **Blockchain** | Sistemas distribuídos, segurança e integridade de dados |
-- 🌐 **Full Stack Development** | Aplicações web completas — APIs, bancos de dados, interfaces |
+- 🌐 **Full Stack Development** | Aplicações web completas - APIs, bancos de dados, interfaces |
 - ⚡ **Alta Performance** | Otimização de sistemas em Python, C++ e Java |
 - 🧩 **Programação Competitiva** | Lógica, otimização e resolução de problemas sob pressão |
 
@@ -42,9 +42,8 @@ Participei de diversas **maratonas de programação**, o que me ajudou a desenvo
 
 ## 📖 Atualmente estudando
 
-- **Go** — explorando sua performance e concorrência nativa
-- **LeetCode** — resolução de problemas para aprimorar lógica e preparação para competições
-- **Blockchain & Sistemas Distribuídos** — aprofundamento para o TCC
+- **LeetCode** - resolução de problemas para aprimorar lógica e preparação para competições
+- **Blockchain & Sistemas Distribuídos** - aprofundamento para o TCC
 
 ---
 
